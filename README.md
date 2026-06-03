@@ -1,6 +1,6 @@
 # 🌿 RV Flow
 
-Sistema de gestão desenvolvido para a **RosiVelasco**, unindo organização, praticidade e controle em um único lugar.
+Sistema de gestão desenvolvido para a Loja **Rosi Velasco - Essências & Produtos**, unindo organização, praticidade e controle em um único lugar.
 
 O projeto tem como objetivo auxiliar no gerenciamento de estoque, vendas, compras e financeiro, facilitando a rotina da empresa e proporcionando uma visão clara do negócio.
 
